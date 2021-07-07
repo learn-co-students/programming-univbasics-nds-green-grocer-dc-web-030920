@@ -1,4 +1,4 @@
-require_relative 'grocer'
+wrequire_relative 'grocer'
 
 def items
 	[
